@@ -22,5 +22,5 @@ User Journey:
 
 Visit → View Product → Add to Cart → Checkout → Purchase
 ```
--
+
   - Each step drops users → this is where analysis happens
