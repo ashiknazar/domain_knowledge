@@ -17,10 +17,11 @@
 - Churn Rate
   - Users who stop buying
 - Customer Funnel
+  - Each step drops users → this is where analysis happens
 ```bash
 User Journey:
 
 Visit → View Product → Add to Cart → Checkout → Purchase
 ```
 
-  - Each step drops users → this is where analysis happens
+  
