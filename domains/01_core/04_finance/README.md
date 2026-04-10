@@ -5,11 +5,11 @@ Overview of the domain.
 > The finance domain deals with money flow, risk, investments, and transactions.
 
 -  It includes areas like:
-  - Banking
-  - Payments (UPI, cards)
-  - Stock markets
-  - Loans & credit
-  - Insurance
+   - Banking
+   - Payments (UPI, cards)
+   - Stock markets
+   - Loans & credit
+   - Insurance
 
 ___
 
