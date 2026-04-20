@@ -1,2 +1,6 @@
 - ecommerce
 - finance
+- media
+- social media
+- genetics 
+-
